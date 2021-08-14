@@ -1,0 +1,29 @@
+#Segment
+segment: Corporate
+
+model_file_name: model_B_corporate.pkl 
+
+columns: 
+    - order_date
+    - segment
+    - country
+    - city
+    - state
+    - category
+    - subcategory
+    - ship_mode
+    - day_of_week
+    - year
+    - month
+    - week_number
+    - days_in_month
+    - total_sales_this_week
+    - total_sales_this_month
+    - day_of_week_code
+    - city_code
+    - state_code
+    - category_code
+    - subcategory_code
+    - shipmode_code
+    - year_week
+    
